@@ -8,6 +8,3 @@ On Spotify he uses the Name HenryHead.
 His real name is Joe Mullen and the underlying domain name is joemullen.co.uk
 #
 ![European Son PNG](The European Son.png)
-#<img src=”./designs/The European Son.png” alt=”website content”>
-
-#<img src=“cbc665167220962e08e055c820.jpg”>
